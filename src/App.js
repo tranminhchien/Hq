@@ -14,7 +14,7 @@ function App() {
             <div className="ht-left">
               <div className="mail-service">
                 <i className=" fa fa-envelope" />
-                congnghehq@gmail.com
+                congnghehqco@gmail.com
                </div>
               <div className="phone-service">
                 <i className=" fa fa-phone" />
@@ -22,13 +22,13 @@ function App() {
           </div>
             </div>
             <div className="ht-right">
-              <a href="#" className="login-panel"><i className="fa fa-user" />Login</a>
+              {/* <a href="#" className="login-panel"><i className="fa fa-user" />Login</a>
               <div className="lan-selector">
                 <select className="language_drop" name="countries" id="countries" style={{ width: '300px' }}>
                   <option value="yt" data-image="img/flag-1.jpg" data-imagecss="flag yt" data-title="English">English</option>
                   <option value="yu" data-image="img/flag-2.jpg" data-imagecss="flag yu" data-title="Bangladesh">German </option>
                 </select>
-              </div>
+              </div> */}
               <div className="top-social">
                 <a href="#"><i className="ti-facebook" /></a>
                 <a href="#"><i className="ti-twitter-alt" /></a>
@@ -214,7 +214,7 @@ function App() {
                 <ul>
                   <li>Address: 6/1B Nguyễn Thị Búp KP. 1 P. Hiệp Thành TP. Hồ Chí Minh</li>
                   <li>Phone: +84 932.765.989</li>
-                  <li>Email: congnghehq@gmail.com</li>
+                  <li>Email: congnghehqco@gmail.com</li>
                 </ul>
                 <div className="footer-social">
                   <a href="#"><i className="fa fa-facebook" /></a>
