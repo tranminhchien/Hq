@@ -212,7 +212,7 @@ function App() {
                   <a href="#"><img src="img/logo.png" alt="" /></a>
                 </div>
                 <ul>
-                  <li>Address: 6/1B Nguyễn Thị Búp KP. 1 P. Hiệp Thành TP. Hồ Chí Minh</li>
+                  <li>Address: 6/1B Nguyễn Thị Búp, KP1, P.Hiệp Thành, Q.12, TP.Hồ Chí Minh</li>
                   <li>Phone: +84 932.765.989</li>
                   <li>Email: congnghehqco@gmail.com</li>
                 </ul>
